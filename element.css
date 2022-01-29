@@ -1,0 +1,34 @@
+h1{
+    color: aquamarine;
+    font-weight: bold;
+}
+li.one,li.three{
+    color: cadetblue,;
+}
+li.two,li.four{
+    color: darkcyan;
+}
+hr+a{
+    color:deepskyblue;
+}
+a.letuscoding:hover{
+    color: fuchsia;
+    text-decoration: none;
+    background-color: orange;
+
+}
+h2:hover{
+    color: mediumspringgreen;
+    background-color: black;
+}
+*{
+    background-color: silver;
+}
+h1{
+    background-color:ghostwhite;
+}
+h2{
+    border-color: gold;
+    border width: 100;
+    border height: 100;
+}
